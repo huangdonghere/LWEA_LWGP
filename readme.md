@@ -1,11 +1,11 @@
 # Locally Weighted Ensemble Clustering
 
 ## Citation
-This repository provides the MATLAB code for two ensemble clustering algorithms, namely, locally weighted evidence accumulation (LWEA) and locally weighted graph partitioning (LWGP), which are proposed in the following paper:
+This repository provides the MATLAB code for two ensemble clustering algorithms, namely, `locally weighted evidence accumulation (LWEA)` and `locally weighted graph partitioning (LWGP)`, which are proposed in the following paper:
 ```
 Dong Huang, Chang-Dong Wang, and Jian-Huang Lai.
 Locally Weighted Ensemble Clustering,
-IEEE Transactions on Cybernetics, 2018, 48(5):1460-1473.
+IEEE Transactions on Cybernetics, 2018, 48(5), pp.1460-1473.
 ```
 
 ## Description
