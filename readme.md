@@ -17,6 +17,7 @@ There are mainly two types of files in this repository:
 
 The base clustering pools for the 15 datasets are provided in the following MAT files:
 
+```
 dataName = 'VS';
 dataName = 'Semeion';
 dataName = 'SPF';
@@ -32,6 +33,7 @@ dataName = 'ISOLET';
 dataName = 'PD';
 dataName = 'USPS';
 dataName = 'LR';
+```
 
 There are two variables in the MAT file for each dataset, namely, members and gt. The variable gt is the ground-truth label, which is an N-dimension vector. The variable members is an N x s matrix, where each column of it is a candidate base clustering.
 
@@ -40,11 +42,13 @@ There are two variables in the MAT file for each dataset, namely, members and gt
 
 The file entitled 'demo_LWEA_and_LWGP.m' is the main file for running LWEA and LWGP. You may change the following settings in order to test the performances of LWEA and LWGP:
 
+```
 1) dataName:	the dataset to be used.
 2) M:           the ensemble size.
 3) cntTimes:	run LWEA and LWGP for cntTimes times and obtain the average performance.
 4) para_theta:	the parameter theta.
 6) clsNums:     a vector of positve integers, specifying different numbers of clusters for LWEA and LWGP.
+```
 
 (Please note that M, cntTimes must be positive integers. The parameter para_theta must be greater than zero.)
 
