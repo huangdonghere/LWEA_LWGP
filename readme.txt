@@ -4,8 +4,8 @@
 % code useful for your research, please cite the paper below.       %
 %                                                                   %
 % Dong Huang, Chang-Dong Wang, and Jian-Huang Lai.                  %
-% "Locally weighted ensemble clustering."                           %
-% IEEE Transactions on Cybernetics, to appear, 2017.                %
+% "Locally Weighted Ensemble Clustering,"                           %
+% IEEE Transactions on Cybernetics, 2018, 48(5):1460-1473.          %
 %                                                                   %
 % The code has been tested in Matlab R2014a and Matlab R2015a on a  %
 % workstation with Windows Server 2008 R2 64-bit.                   %
