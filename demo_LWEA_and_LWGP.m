@@ -24,7 +24,7 @@ clc;
 
 %% Load the base clustering pool.
 % We have generated a pool of 100 candidate base clusterings for each dataset.
-% Please uncomment the dataset that you want to use and comment the other ones.
+% Please uncomment the dataset you want to use, and comment the other ones.
 
 % If you don't want to use the pre-generated base clusterings, you may as
 % well generate your own base clusterings by using k-means or any other
