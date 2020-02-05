@@ -47,7 +47,7 @@ The file entitled 'demo_LWEA_and_LWGP.m' is the main file for running LWEA and L
 2) M:           the ensemble size.
 3) cntTimes:	run LWEA and LWGP for cntTimes times and obtain the average performance.
 4) para_theta:	the parameter theta.
-6) clsNums:     a vector of positve integers, specifying different numbers of clusters for LWEA and LWGP.
+5) clsNums:     a vector of positve integers, specifying different numbers of clusters for LWEA and LWGP.
 ```
 
 (Please note that M, cntTimes must be positive integers. The parameter para_theta must be greater than zero.)
